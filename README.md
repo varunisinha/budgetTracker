@@ -1,7 +1,7 @@
 # Unit 19 PWA Homework: Online/Offline Budget Trackers
 
-# Deployed URL:
-# Github Repo: 
+### Deployed URL:https://budget-tracker-vs.herokuapp.com
+### Github Repo: https://github.com/varunisinha/budgetTracker
 
 Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
 
